@@ -1,0 +1,4 @@
+﻿  contact.c
+E:\c程序集合\Project2021_1_2_contact\Project2021_1_2_contact\contact.c(71,23): warning C4090: “函数”: 不同的“const”限定符
+E:\c程序集合\Project2021_1_2_contact\Project2021_1_2_contact\contact.c(87,29): warning C4028: 形参 1 与声明不同
+  Project2021_1_2_contact.vcxproj -> E:\c程序集合\Project2021_1_2_contact\Debug\Project2021_1_2_contact.exe

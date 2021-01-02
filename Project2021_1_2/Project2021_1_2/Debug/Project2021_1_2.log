@@ -1,0 +1,5 @@
+﻿  contact.c
+E:\c程序集合\Project2021_1_2\Project2021_1_2\contact.c(70,23): warning C4090: “函数”: 不同的“const”限定符
+  test.c
+  正在生成代码...
+  Project2021_1_2.vcxproj -> E:\c程序集合\Project2021_1_2\Debug\Project2021_1_2.exe
